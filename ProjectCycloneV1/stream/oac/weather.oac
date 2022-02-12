@@ -1,0 +1,1164 @@
+Version 1 11
+{
+	IsStream False
+	DescriptorsInOrder False
+	Entries
+	{
+		WaveTrack 0x005A3308
+		{
+			Compression PCM
+			Headroom 1538
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x005A3308.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLANTS_RAIN_LOOP_1_B
+		{
+			Compression PCM
+			Headroom 416
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\PLANTS_RAIN_LOOP_1_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x0157C86A
+		{
+			Compression PCM
+			Headroom 101
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x0157C86A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x017548AD
+		{
+			Compression PCM
+			Headroom 974
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x017548AD.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x01E07D82
+		{
+			Compression PCM
+			Headroom -20
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x01E07D82.wav
+			AnimClip null
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x00000000
+					ParameterHash 0x00000000
+					Timestamp 0
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLANTS_RAIN_LOOP_2_B
+		{
+			Compression PCM
+			Headroom 425
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\PLANTS_RAIN_LOOP_2_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack TARMAC_RAIN_LOOP_2_B
+		{
+			Compression PCM
+			Headroom -73
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\TARMAC_RAIN_LOOP_2_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x028397EC
+		{
+			Compression PCM
+			Headroom -83
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x028397EC.wav
+			AnimClip null
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x00000000
+					ParameterHash 0x00000000
+					Timestamp 0
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x02ED5E5A
+		{
+			Compression PCM
+			Headroom 689
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x02ED5E5A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x03539E5E
+		{
+			Compression PCM
+			Headroom 10
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x03539E5E.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x03DEE132
+		{
+			Compression PCM
+			Headroom 162
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x03DEE132.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x03F2FE5D
+		{
+			Compression PCM
+			Headroom 342
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x03F2FE5D.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x046ECEA2
+		{
+			Compression PCM
+			Headroom 681
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x046ECEA2.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x04AB6635
+		{
+			Compression PCM
+			Headroom 1057
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x04AB6635.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x04BD63D0
+		{
+			Compression PCM
+			Headroom 259
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x04BD63D0.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x04F80B54
+		{
+			Compression PCM
+			Headroom 790
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x04F80B54.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack WATER_RAIN_LOOP_1_A
+		{
+			Compression PCM
+			Headroom 415
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\WATER_RAIN_LOOP_1_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x05BFE82E
+		{
+			Compression PCM
+			Headroom 483
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x05BFE82E.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x05D20947
+		{
+			Compression PCM
+			Headroom 680
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x05D20947.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x06B8CE61
+		{
+			Compression PCM
+			Headroom -181
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x06B8CE61.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack WATER_RAIN_LOOP_2_A
+		{
+			Compression PCM
+			Headroom 275
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\WATER_RAIN_LOOP_2_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x096D189C
+		{
+			Compression PCM
+			Headroom 1074
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x096D189C.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x0971E3D5
+		{
+			Compression PCM
+			Headroom -171
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x0971E3D5.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x09816C78
+		{
+			Compression PCM
+			Headroom 363
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x09816C78.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack TARMAC_RAIN_LOOP_1_A
+		{
+			Compression PCM
+			Headroom 437
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\TARMAC_RAIN_LOOP_1_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x0AE528B0
+		{
+			Compression PCM
+			Headroom 1517
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x0AE528B0.wav
+			AnimClip null
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x00000000
+					ParameterHash 0x00000000
+					Timestamp 0
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack WATER_RAIN_LOOP_1_B
+		{
+			Compression PCM
+			Headroom 65
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\WATER_RAIN_LOOP_1_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x0B95F40B
+		{
+			Compression PCM
+			Headroom 862
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x0B95F40B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack TARMAC_RAIN_LOOP_1_B
+		{
+			Compression PCM
+			Headroom 348
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\TARMAC_RAIN_LOOP_1_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x0CD31F62
+		{
+			Compression PCM
+			Headroom 101
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x0CD31F62.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack WIND_ERATIC_02
+		{
+			Compression PCM
+			Headroom -43
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\WIND_ERATIC_02.wav
+			AnimClip null
+			Events
+			{
+				Event
+				{
+					EventTypeHash 0x00000000
+					ParameterHash 0x00000000
+					Timestamp 0
+					Flags 0x00000000
+				}
+			}
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x0E29F5C9
+		{
+			Compression PCM
+			Headroom 533
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x0E29F5C9.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x0E4D225D
+		{
+			Compression PCM
+			Headroom 906
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x0E4D225D.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x0E9A13A9
+		{
+			Compression PCM
+			Headroom 370
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x0E9A13A9.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLANTS_RAIN_LOOP_1_A
+		{
+			Compression PCM
+			Headroom 658
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\PLANTS_RAIN_LOOP_1_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x0FACE51E
+		{
+			Compression PCM
+			Headroom 765
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x0FACE51E.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x0FC1D5C5
+		{
+			Compression PCM
+			Headroom 650
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x0FC1D5C5.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x1030BD40
+		{
+			Compression PCM
+			Headroom 420
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x1030BD40.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x10D5BB22
+		{
+			Compression PCM
+			Headroom 263
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x10D5BB22.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x114C3D23
+		{
+			Compression PCM
+			Headroom -47
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x114C3D23.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x11A57793
+		{
+			Compression PCM
+			Headroom 986
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x11A57793.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x11BBFBF7
+		{
+			Compression PCM
+			Headroom 717
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x11BBFBF7.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x11E5A7BB
+		{
+			Compression PCM
+			Headroom -180
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x11E5A7BB.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack WATER_RAIN_LOOP_2_B
+		{
+			Compression PCM
+			Headroom 56
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\WATER_RAIN_LOOP_2_B.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x12ED6B95
+		{
+			Compression PCM
+			Headroom 101
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x12ED6B95.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x1329AC19
+		{
+			Compression PCM
+			Headroom 436
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x1329AC19.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x13322C28
+		{
+			Compression PCM
+			Headroom 229
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x13322C28.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x13508380
+		{
+			Compression PCM
+			Headroom 343
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x13508380.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x139392D9
+		{
+			Compression PCM
+			Headroom -171
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x139392D9.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack TARMAC_RAIN_LOOP_2_A
+		{
+			Compression PCM
+			Headroom 370
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\TARMAC_RAIN_LOOP_2_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x13E81A24
+		{
+			Compression PCM
+			Headroom 1632
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x13E81A24.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x14127F17
+		{
+			Compression PCM
+			Headroom -191
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x14127F17.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack PLANTS_RAIN_LOOP_2_A
+		{
+			Compression PCM
+			Headroom 79
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\PLANTS_RAIN_LOOP_2_A.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x14CD808F
+		{
+			Compression PCM
+			Headroom -191
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x14CD808F.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x14D84660
+		{
+			Compression PCM
+			Headroom 273
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x14D84660.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x15FAFAFB
+		{
+			Compression PCM
+			Headroom 828
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x15FAFAFB.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x161D7CE0
+		{
+			Compression PCM
+			Headroom 1029
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x161D7CE0.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x16776E53
+		{
+			Compression PCM
+			Headroom 951
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x16776E53.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x168348FE
+		{
+			Compression PCM
+			Headroom -160
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x168348FE.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x17B57E72
+		{
+			Compression PCM
+			Headroom 844
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x17B57E72.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x17FE0CAB
+		{
+			Compression PCM
+			Headroom 786
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x17FE0CAB.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x190F37E0
+		{
+			Compression PCM
+			Headroom 833
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x190F37E0.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x1922AFE8
+		{
+			Compression PCM
+			Headroom 497
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x1922AFE8.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x19D7108E
+		{
+			Compression PCM
+			Headroom -198
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x19D7108E.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x1C9EFEFF
+		{
+			Compression PCM
+			Headroom 617
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x1C9EFEFF.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x1D8A3156
+		{
+			Compression PCM
+			Headroom 764
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x1D8A3156.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x1E7AD9D5
+		{
+			Compression PCM
+			Headroom 674
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x1E7AD9D5.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x1E805676
+		{
+			Compression PCM
+			Headroom 1579
+			LoopPoint -1
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x1E805676.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x1F9684EA
+		{
+			Compression PCM
+			Headroom 101
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x1F9684EA.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+		WaveTrack 0x1FC1D735
+		{
+			Compression PCM
+			Headroom 790
+			LoopPoint 0
+			LoopBegin 0
+			LoopEnd 0
+			PlayBegin 0
+			PlayEnd 0
+			Wave weather\0x1FC1D735.wav
+			AnimClip null
+			Events null
+			UNKNOWN_23097A2B null
+			UNKNOWN_E787895A null
+			UNKNOWN_252C20D9 null
+		}
+	}
+}
