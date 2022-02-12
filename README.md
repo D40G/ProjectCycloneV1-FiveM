@@ -4,7 +4,7 @@
 
 # ProjectCyclone V1 Beta Release
 
- <img src="img/Banner.jpg" height="200" width="400">
+ <img src="img/Banner.jpg" height="200" width="300">
 
 
 This is a server side Ambaince sound overhaul
