@@ -7,9 +7,20 @@
  <img src="img/Banner.jpg" height="200" width="300">
 
 
+
+======================================================
+ProjectCyclone V1 Beta Update!
+======================================================
+
+Added a a new wind sound
+Did some more work on the Thunder and rain sounds
+
+
+=======================================================
+
 This is a server side Ambaince sound overhaul
 that changes the default GTA weather sounds
-
+======================================================
 The current sounds
 
 -Rain
@@ -18,12 +29,12 @@ The current sounds
 
 More comming in the next update 
 
-
+======================================================
 Audio Preview
 
 https://www.youtube.com/watch?v=oIiZfZ5LtQw&t=18s
 
-
+======================================================
 # INSTALL
 
 Drag The ProjectCycloneV1-FiveM in to youre resource folder
